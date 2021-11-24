@@ -1,0 +1,12 @@
+PLEASE READ THIS BEFORE PROCEEDING!
+You may delete this file after you're done, but we reccomend that you don't for future reference.
+
+This is the complete source code for the project.
+The .py files are the Python files. They are the "code" of the bot.
+The rest of the files, excluding this file, are the packager files. They "package" the bot and make it work.
+
+Please use a python server that has enough RAM, can connect to Discord.py, and is pingable by Uptime Robot on a Flask webserver.
+If you need any help, I'll be happy to help, but because you guys aren't hosted with us anymore, we unfortunately can't provide that much technical support.
+
+When you are done uploading, you need to add an environmental variable with a name of "newkey" and a value that we will send to you. We cannot put the value here as this source
+code is public and that value is basically the "password" to the Discord bot. It will NOT work without the "password."
