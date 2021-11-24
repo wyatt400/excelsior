@@ -2,3 +2,5 @@ Step 1: Go to https://replit-database-admin-console.rbinfinity.repl.co/
 Step 2: I will tell you a secret code to add onto the website. DO NOT SHARE THIS WITH ANYONE. This lets anyone add or subtract Excels from anyone, and worse: they could even
 add or delete users!
 Step 3: The data of the database is displayed on the screen. Now you can export it into a database.
+
+NOTE: The weird sequence of numbers before every value is the Discord user ID.
