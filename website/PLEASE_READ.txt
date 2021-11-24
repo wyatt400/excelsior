@@ -1,0 +1,10 @@
+Upload the WordPress files on the webserver of your choice and navigate to its PHP directory once DNS caching (or propogation) is complete.
+Make sure the webserver supports WordPress and ideally has LSCache, sufficient resources, SSL certificates, etc.
+
+DO NOT USE A FREE HOSTING WEBSITE TO HOST YOUR WEBSITE. IT MAY CRASH, SLOW DOWN, OR EVEN BE DELETED OR NOT WORK.
+YOU CAN GET A HOSTING SOLUTION INDEPENDENTLY OF US USING HOSTKOALA.COM. USE THE $5 PER YEAR PLAN. IT IS 10,000x HIGHER QUALITY THAN FREE HOSTING.
+
+You have been warned.
+
+Because you aren't hosted with us, we can't provide all of the technical support.
+However, we'd still be glad to assist with small problems.
